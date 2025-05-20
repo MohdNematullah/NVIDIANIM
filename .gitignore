@@ -1,0 +1,25 @@
+# Ignore environment files
+.env
+*.env
+
+# Ignore virtual environment folders
+venv/
+env/
+.venv/
+
+# VSCode settings
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore Streamlit logs
+.streamlit/
+
+# Ignore FAISS index (optional, depending on size)
+*.faiss
+
+# Ignore PDF documents folder (optional)
+# D:/nimnvidia/ML&DL/
+
