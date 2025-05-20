@@ -56,7 +56,7 @@ flowchart TD
 ### 1. Clone the Repository
 
 
-git clone https://github.com/your-username/nvidia-nim-docqa.git
+git clone https://github.com/MohdNematullah/NVIDIANIM.git
 cd nvidia-nim-docqa
 
 
