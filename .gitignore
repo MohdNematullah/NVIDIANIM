@@ -21,5 +21,8 @@ Thumbs.db
 *.faiss
 
 # Ignore PDF documents folder (optional)
-# D:/nimnvidia/ML&DL/
+D:/nimnvidia/ML&DL/
+
+ML&DL/
+
 
